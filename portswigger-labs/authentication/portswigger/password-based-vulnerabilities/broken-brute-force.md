@@ -1,6 +1,6 @@
 ## Lab: Broken brute-force protection, multiple credentials per request
 **Goal:** Show understanding of authentication bypass through input type confusion, 
-and how inadequate input validation defeats security controls. 400–600 words.
+and how inadequate input validation defeats security controls.
 
 ## Lab Details
 Lab: Broken brute-force protection, multiple credentials per request
